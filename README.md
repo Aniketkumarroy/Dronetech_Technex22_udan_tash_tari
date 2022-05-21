@@ -14,7 +14,8 @@
 
 <h1 align="center"> DroneTech-2022 </h1>
 <br>
-
+<h2 align="center"> Team Name: udan_tash_tari </h2>
+<h2 align="center"> Youtube link of simulation https://youtu.be/IiO45VylWdM </h2>
 <div align = "center">
 <img src="/Assets/Drone.gif" alt="Drone" align="center">
 </div>
